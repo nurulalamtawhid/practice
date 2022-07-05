@@ -11,7 +11,8 @@ h1{
 }
 .top{
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 120px;
+    background-image: url(images/shapes/7);
 }
 .skip{
     width: 100%;
@@ -32,4 +33,14 @@ h1{
 
     width: 80%;
    
+}
+.mid{
+    background-image: url(images/shapes/7);
+    margin-left: 100px;
+}
+.about{
+    width: 50%;
+    margin-left: 100px;
+    padding-left: 350px;
+    padding-right: 180px;
 }
